@@ -28,6 +28,6 @@ Remember to cite our paper [1] if you use the code.
 
 ## Reference
 
-[1] Xu, Le, et al. "Overcoming Beam Squint in mmWave MIMO Channel Estimation: A Bayesian Multi-Band Sparsity Approach." IEEE Transactions on Signal Processing 72 (2024): 1219-1234.
+[1] Xu, L., Cheng, L., Wong, N., Wu, Y. C., & Poor, H. V. (2024). Overcoming Beam Squint in mmWave MIMO Channel Estimation: A Bayesian Multi-Band Sparsity Approach. IEEE Transactions on Signal Processing, 72, 1219-1234.
 
-[2] Y. Lin, S. Jin, M. Matthaiou, and X. You, “Tensor-based channel estimation for millimeter wave MIMO-OFDM with dual-wideband effects,” IEEE Transactions on Communications, vol. 68, no. 7, pp. 4218–4232, 2020.
+[2] Lin, Y., Jin, S., Matthaiou, M., & You, X. (2020). Tensor-based channel estimation for millimeter wave MIMO-OFDM with dual-wideband effects. IEEE Transactions on Communications, 68(7), 4218-4232.
